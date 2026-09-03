@@ -1,4 +1,4 @@
-# Hi 
+# ** Hi 
 
 ### 👁️ About Me 👁️
 
@@ -15,7 +15,5 @@ const sanzmann = {
 };
 ```
 
-### 🎮 Featured Projects
-
-- **Horror Web Game** — First-person horror game built with Three.js, set in an abandoned school, 5 floors, flashlight mechanic
-- **MIDI Piano Visualizer** — Web MIDI API + Synthesia-style 3D visuals, with recording/export support
+### 🦬 Projects
+- to be continued...
