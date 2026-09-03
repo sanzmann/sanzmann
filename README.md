@@ -11,7 +11,7 @@ const sanzmann = {
   pronouns: "he" | "him",
   Nationality: South Korean,
   skills: ["Empty"],
-  Currently into: PQC
+  Interest: PQC
 };
 ```
 
